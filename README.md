@@ -1,4 +1,4 @@
-# MTG LIFE COUNTER
+# MTG Life Counter
 
 Customizable MTG TCG life counter.
 
